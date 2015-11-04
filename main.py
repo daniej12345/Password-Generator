@@ -1,5 +1,5 @@
 # Information
-__author__ = "Daniel Jensen"
+__author__ = "Daniel Roland Henrik Jensen"
 __copyright__ = "Copyright (C) 2015 Daniel Jensen"
 __license__ = "Public Domain"
 __version__ = "1.0"
