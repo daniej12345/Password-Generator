@@ -1,7 +1,7 @@
 # Information
 __author__ = "Daniel Roland Henrik Jensen"
 __copyright__ = "Copyright (C) 2015 Daniel Jensen"
-__license__ = "Public Domain"
+__license__ = "Apache License 2.0, See the LICENSE file included"
 __version__ = "1.0"
 
 # Imports 
